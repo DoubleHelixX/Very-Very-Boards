@@ -1,0 +1,12 @@
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\obj\Debug\VeryVeryBoards_HW1.vbprojAssemblyReference.cache
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\obj\Debug\VeryVeryBoards_HW1.Resources.resources
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\obj\Debug\VeryVeryBoards_HW1.vbproj.GenerateResource.cache
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\obj\Debug\VeryVeryBoards_HW1.vbproj.CoreCompileInputs.cache
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\obj\Debug\VeryVeryBoards_HW1.Form1.resources
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\bin\Debug\VeryVeryBoards_HW1.exe.config
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\bin\Debug\VeryVeryBoards_HW1.exe
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\bin\Debug\VeryVeryBoards_HW1.pdb
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\bin\Debug\VeryVeryBoards_HW1.xml
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\obj\Debug\VeryVeryBoards_HW1.exe
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\obj\Debug\VeryVeryBoards_HW1.xml
+E:\visualStudio\projects\VeryVeryBoards_HW1\VeryVeryBoards_HW1\obj\Debug\VeryVeryBoards_HW1.pdb
